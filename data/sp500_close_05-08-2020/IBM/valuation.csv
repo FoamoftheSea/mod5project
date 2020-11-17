@@ -1,0 +1,23 @@
+,IBM,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",11.8,38.57,Valuation,0.30593725693544205
+Price/Sales (TTM),1.41,10.33,Valuation,0.13649564375605033
+Price/Book (MRQ),5.38,16.63,Valuation,0.32351172579675286
+"PEG Ratio (TTM, GAAP)",3.01,3.85,Valuation,0.7818181818181817
+Gross Profit Margin (TTM),0.47520000000000007,0.443,Profitability,1.0726862302483071
+Operating Profit Margin (TTM),0.1076,0.3113,Profitability,0.34564728557661417
+Net Profit Margin (TTM),0.1198,0.2429,Profitability,0.4932070811033347
+Annual Dividend Yield,0.0538,0.010400000000000001,Dividend,5.1730769230769225
+Dividend Change %,0.0354,0.27890000000000004,Dividend,0.1269272140552169
+"Dividend Growth Rate, 3 Years",0.0535,0.1068,Dividend,0.5009363295880149
+EPS Growth (MRQ),-0.638,-0.166,Gowth rates,3.8433734939759034
+EPS Growth (TTM),-0.1285,0.1002,Gowth rates,-1.282435129740519
+Revenue Growth (MRQ),-0.1931,0.19760000000000003,Gowth rates,-0.9772267206477732
+Revenue Growth (TTM),-0.0275,0.171,Gowth rates,-0.1608187134502924
+Return On Equity (TTM),0.5028,0.4304,Effectiveness,1.1682156133828996
+Return On Assets (TTM),0.0645,0.1204,Effectiveness,0.5357142857142858
+Return On Investment (TTM),0.0897,0.18920000000000003,Effectiveness,0.47410147991543333
+Revenue Per Employee (TTM),217065.0,654648.0,Effectiveness,0.33157513656193865
+Total Debt/Total Capital (MRQ),0.7617,0.4744,Financial strength,1.6056070826306916
+Change in Debt/Total Capital Quarter over Quarter,0.001,0.0015,Financial strength,0.6666666666666666
+Quick Ratio (MRQ),0.91,0.11,Financial strength,8.272727272727273
+Interest Coverage (MRQ),3.58,22.68,Financial strength,0.15784832451499117

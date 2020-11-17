@@ -1,0 +1,23 @@
+,AAPL,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",23.81,20.86,Valuation,1.1414189837008628
+Price/Sales (TTM),4.91,4.58,Valuation,1.072052401746725
+Price/Book (MRQ),16.75,15.74,Valuation,1.0641677255400255
+"PEG Ratio (TTM, GAAP)",1.88,1.57,Valuation,1.197452229299363
+Gross Profit Margin (TTM),0.3811,0.3764,Profitability,1.0124867162592985
+Operating Profit Margin (TTM),0.24480000000000002,0.2293,Profitability,1.0675970344526822
+Net Profit Margin (TTM),0.21350000000000002,0.2011,Profitability,1.0616608652411736
+Annual Dividend Yield,0.0108,0.012,Dividend,0.9
+Dividend Change %,0.10289999999999999,0.1037,Dividend,0.9922854387656701
+"Dividend Growth Rate, 3 Years",0.11230000000000001,0.10869999999999999,Dividend,1.0331186752529902
+EPS Growth (MRQ),-0.48840000000000006,0.09570000000000001,Gowth rates,-5.103448275862069
+EPS Growth (TTM),0.09330000000000001,0.133,Gowth rates,0.7015037593984963
+Revenue Growth (MRQ),-0.3649,0.0063,Gowth rates,-57.92063492063492
+Revenue Growth (TTM),0.0367,0.0363,Gowth rates,1.0110192837465566
+Return On Equity (TTM),0.6209,0.59,Effectiveness,1.0523728813559323
+Return On Assets (TTM),0.1728,0.16390000000000002,Effectiveness,1.0543014032946918
+Return On Investment (TTM),0.2422,0.23420000000000002,Effectiveness,1.0341588385994875
+Revenue Per Employee (TTM),1956066.0,1843881.0,Effectiveness,1.0608417788349682
+Total Debt/Total Capital (MRQ),0.5841,0.605,Financial strength,0.9654545454545455
+Change in Debt/Total Capital Quarter over Quarter,0.0004,0.0004,Financial strength,1.0
+Quick Ratio (MRQ),1.46,1.42,Financial strength,1.028169014084507
+Interest Coverage (MRQ),,0.46,Financial strength,

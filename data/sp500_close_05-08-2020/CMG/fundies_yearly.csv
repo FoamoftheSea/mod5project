@@ -1,0 +1,124 @@
+,2015,2016,2017,2018,2019,2020,Report
+high,758.61,542.5,499.0,530.68,857.9,940.28,
+low,477.97,352.96,263.0,247.52,423.98,415.0,
+change,-0.23870000000000002,-0.195,-0.23760000000000003,0.4843,0.9566,0.10220000000000001,
+Date,2015-12-31 00:00:00,2016-12-31 00:00:00,2017-12-31 00:00:00,2018-12-31 00:00:00,2019-12-31 00:00:00,,Balance Sheet
+Cash & Equivalents,248.0,88.0,185.0,250.0,481.0,,Balance Sheet
+Short Term Investments,415.0,330.0,324.0,427.0,400.0,,Balance Sheet
+Cash and Short Term Invs,663.0,418.0,509.0,677.0,881.0,,Balance Sheet
+"Trade Accts Recvble, Gross",39.0,41.0,40.0,,81.0,,Balance Sheet
+Prov. for Doubtful Accts,-1.0,0.0,0.0,,0.0,,Balance Sheet
+"Trade Accts Recvble, Net",38.0,40.0,40.0,62.0,81.0,,Balance Sheet
+Other Receivables,58.0,5.0,9.0,0.0,28.0,,Balance Sheet
+"Total Receivables, Net",96.0,46.0,50.0,62.0,108.0,,Balance Sheet
+Total Inventory,15.0,15.0,20.0,22.0,26.0,,Balance Sheet
+Prepaid Expenses,40.0,44.0,51.0,54.0,57.0,,Balance Sheet
+Total Current Assets,815.0,522.0,630.0,815.0,1072.0,,Balance Sheet
+Buildings,1419.0,1573.0,1677.0,1690.0,1765.0,,Balance Sheet
+Land/Improvements,13.0,13.0,13.0,13.0,13.0,,Balance Sheet
+Machinery/Equipment,363.0,406.0,460.0,544.0,654.0,,Balance Sheet
+Construction in Progress,,,,43.0,45.0,,Balance Sheet
+Other Prop./Plant/Equip.,143.0,158.0,167.0,173.0,2688.0,,Balance Sheet
+Prop./Plant/Equip. - Gross,1938.0,2149.0,2317.0,2463.0,5166.0,,Balance Sheet
+Accumulated Depreciation,-721.0,-845.0,-979.0,-1084.0,-1201.0,,Balance Sheet
+Prop./Plant/Equip. - Net,1217.0,1304.0,1338.0,1379.0,3964.0,,Balance Sheet
+"Goodwill, Net",22.0,22.0,22.0,22.0,22.0,,Balance Sheet
+Long Term Investments,623.0,125.0,0.0,,,,Balance Sheet
+Other Long Term Assets,48.0,53.0,56.0,19.0,18.0,,Balance Sheet
+Total Assets,2725.0,2026.0,2046.0,2266.0,5105.0,,Balance Sheet
+Accounts Payable,86.0,78.0,82.0,113.0,116.0,,Balance Sheet
+Accrued Expenses,194.0,203.0,242.0,261.0,456.0,,Balance Sheet
+Notes Payable/ST Debt,0.0,0.0,0.0,0.0,0.0,,Balance Sheet
+Customer Advances,,,,70.0,95.0,,Balance Sheet
+Income Taxes Payable,,,,5.0,0.0,,Balance Sheet
+"Other Curr. Lblts, Total",,,,76.0,95.0,,Balance Sheet
+Total Current Liabilities,280.0,282.0,324.0,450.0,667.0,,Balance Sheet
+Total Long Term Debt,0.0,0.0,0.0,0.0,0.0,,Balance Sheet
+Total Debt,0.0,0.0,0.0,0.0,0.0,,Balance Sheet
+Deferred Income Tax,32.0,19.0,1.0,12.0,38.0,,Balance Sheet
+"Other Liabilities, Total",285.0,323.0,357.0,363.0,2717.0,,Balance Sheet
+Total Liabilities,597.0,624.0,681.0,824.0,3422.0,,Balance Sheet
+"Pref. Stock-Non Rdmbl, Net",,0.0,0.0,0.0,0.0,,Balance Sheet
+Common Stock,0.0,0.0,0.0,0.0,0.0,,Balance Sheet
+Additional Paid-In Capital,1173.0,1239.0,1305.0,1374.0,1466.0,,Balance Sheet
+Ret. Earn.(Accum. Deficit),2198.0,2221.0,2397.0,2574.0,2921.0,,Balance Sheet
+Treasury Stock - Common,-1235.0,-2049.0,-2334.0,-2501.0,-2699.0,,Balance Sheet
+"Other Equity, Total",-8.0,-8.0,-4.0,-6.0,-5.0,,Balance Sheet
+Total Equity,2128.0,1402.0,1364.0,1441.0,1683.0,,Balance Sheet
+Total Liabilities & Shareholders’ Equity,2725.0,2026.0,2046.0,2266.0,5105.0,,Balance Sheet
+Ttl Comm. Shares Outs.,31.0,29.0,28.0,28.0,28.0,,Balance Sheet
+Trsy. Shrs-Comm. Primary Iss.,5.0,7.0,8.0,8.0,9.0,,Balance Sheet
+Date,2015-12-31 00:00:00,2016-12-31 00:00:00,2017-12-31 00:00:00,2018-12-31 00:00:00,2019-12-31 00:00:00,,Income Statement
+Total Revenue,4501.0,3904.0,4476.0,4865.0,5586.0,,Income Statement
+"Cost of Revenue, Total",3065.0,3113.0,3287.0,3495.0,3936.0,,Income Statement
+Selling/Gen/Admin Expense,530.0,588.0,637.0,704.0,817.0,,Income Statement
+Advertising Expense,,,106.0,112.0,142.0,,Income Statement
+"Sell/Gen/AdminExpenses,Tot",530.0,588.0,744.0,816.0,958.0,,Income Statement
+Depreciation/Amortization,130.0,146.0,163.0,202.0,213.0,,Income Statement
+"Inter/Invest Inc, Operating",-1.0,-1.0,-2.0,,,,Income Statement
+Restructuring Charge,,,,27.0,12.0,,Income Statement
+Impair-Assets Held for Use,,,,16.0,2.0,,Income Statement
+Unusual Expense (Income),13.0,24.0,13.0,94.0,36.0,,Income Statement
+Loss(Gain)/Sale Asts (Oper),13.0,24.0,13.0,51.0,21.0,,Income Statement
+Total Operating Expense,3738.0,3870.0,4206.0,4607.0,5142.0,,Income Statement
+Total Operating Income,764.0,35.0,271.0,258.0,444.0,,Income Statement
+"Inter/Invest Inc, Non-Oper",6.0,4.0,5.0,10.0,14.0,,Income Statement
+Income Before Tax,770.0,39.0,276.0,268.0,458.0,,Income Statement
+Income Tax - Total,294.0,16.0,99.0,98.0,108.0,,Income Statement
+Income After Tax,476.0,23.0,176.0,170.0,350.0,,Income Statement
+Net Inc Before Extra Items,476.0,23.0,176.0,170.0,350.0,,Income Statement
+Total Extraordinary Items,,,0.0,6.0,,,Income Statement
+Total Net Income,476.0,23.0,176.0,177.0,350.0,,Income Statement
+Income Available to Common Excl. Extra. Items,476.0,23.0,176.0,170.0,350.0,,Income Statement
+Income Available to Common Incl. Extra. Items,476.0,23.0,176.0,177.0,350.0,,Income Statement
+Basic/Primary Weighted Average Shares,31.0,29.0,28.0,28.0,28.0,,Income Statement
+Basic/Primary EPS Excl. Extra. Items,15.3,0.78,6.19,6.11,12.62,,Income Statement
+Basic/Primary EPS Incl. Extra. Items,15.3,0.78,6.19,6.35,12.62,,Income Statement
+Dilution Adjustment,0.0,,,,,,Income Statement
+Diluted Weighted Average Shares,31.0,30.0,29.0,28.0,28.0,,Income Statement
+Diluted EPS Excl. Extra. Items,15.1,0.77,6.17,6.08,12.38,,Income Statement
+Diluted EPS Incl. Extra. Items,15.1,0.77,6.17,6.31,12.38,,Income Statement
+Div/Share-ComStockPrimIssue,0.0,0.0,,,,,Income Statement
+Gross Divid - Common Stock,0.0,0.0,0.0,0.0,0.0,,Income Statement
+Pro Forma Net Income,,,,,,,Income Statement
+"Depreciat/Amort, Suppl",130.0,146.0,163.0,202.0,213.0,,Income Statement
+Total Special Items,13.0,24.0,13.0,94.0,36.0,,Income Statement
+Normalzd Income Before Tax,783.0,63.0,289.0,362.0,494.0,,Income Statement
+Efct/SpecItemsIncTxs (STEC),5.0,10.0,5.0,34.0,8.0,,Income Statement
+IncTxsExcl ImpctofSpec Itms,299.0,26.0,104.0,133.0,117.0,,Income Statement
+Normalized Income After Tax,484.0,37.0,185.0,229.0,377.0,,Income Statement
+Normalzd Inc Avail to Common,484.0,37.0,185.0,229.0,377.0,,Income Statement
+Basic Normalized EPS,15.56,1.27,6.49,8.25,13.6,,Income Statement
+Diluted Normalized EPS,15.36,1.25,6.47,8.21,13.34,,Income Statement
+Date,2015-12-31 00:00:00,2016-12-31 00:00:00,2017-12-31 00:00:00,2018-12-31 00:00:00,2019-12-31 00:00:00,,Cash Flow
+Net Income,476.0,23.0,176.0,177.0,350.0,,Cash Flow
+Depreciation/Depletion,130.0,146.0,163.0,202.0,213.0,,Cash Flow
+Deferred Taxes,12.0,-14.0,-18.0,11.0,30.0,,Cash Flow
+Unusual Items,13.0,24.0,13.0,62.0,15.0,,Cash Flow
+Other Non-Cash Items,-16.0,62.0,65.0,66.0,245.0,,Cash Flow
+Non-Cash Items,-3.0,86.0,79.0,128.0,260.0,,Cash Flow
+"Cash Taxes Pd, Supplemental",249.0,24.0,120.0,67.0,110.0,,Cash Flow
+Accounts Receivable,-4.0,-2.0,0.0,-8.0,-3.0,,Cash Flow
+Inventories,0.0,0.0,-5.0,-2.0,-5.0,,Cash Flow
+Prepaid Expenses,-5.0,-4.0,-7.0,-4.0,-23.0,,Cash Flow
+Other Assets,-6.0,-5.0,-1.0,-2.0,3.0,,Cash Flow
+Accounts Payable,20.0,-7.0,11.0,32.0,-1.0,,Cash Flow
+Accrued Expenses,-7.0,33.0,34.0,44.0,-103.0,,Cash Flow
+Changes in Working Capital,68.0,108.0,68.0,104.0,-131.0,,Cash Flow
+Total Cash from Operations,683.0,349.0,468.0,622.0,722.0,,Cash Flow
+Capital Expenditures,-257.0,-259.0,-217.0,-287.0,-334.0,,Cash Flow
+Sale of Fixed Assets,,,0.0,,14.0,,Cash Flow
+Sale/Maturity of Investment,353.0,586.0,330.0,385.0,477.0,,Cash Flow
+Purchase of Investments,-559.0,0.0,-200.0,-485.0,-449.0,,Cash Flow
+"OtherInvestCashFlowItms,Tot",-207.0,586.0,130.0,-100.0,42.0,,Cash Flow
+Total Cash from Investing,-464.0,327.0,-87.0,-388.0,-292.0,,Cash Flow
+Financing Cash Flow Items,74.0,1.0,-1.0,-6.0,-11.0,,Cash Flow
+"Iss (Retirmnt) of Stock,Net",-461.0,-838.0,-285.0,-161.0,-191.0,,Cash Flow
+Total Cash From Financing,-386.0,-836.0,-286.0,-167.0,-202.0,,Cash Flow
+Foreign Exchange Effects,-4.0,0.0,2.0,-1.0,0.0,,Cash Flow
+Net Change in Cash,-171.0,-160.0,98.0,66.0,228.0,,Cash Flow
+NetCash-BeginBal/RsvdforFutUse,419.0,248.0,116.0,214.0,280.0,,Cash Flow
+NetCash-EndBal/RsrvforFutUse,248.0,88.0,214.0,280.0,508.0,,Cash Flow
+"Depreciation, Supplemental",130.0,146.0,163.0,202.0,213.0,,Cash Flow
+Free Cash Flow,426.0,90.0,251.0,335.0,388.0,,
+FCF Growth,,-0.7887323943661972,1.7888888888888888,0.33466135458167323,0.15820895522388057,0.0,

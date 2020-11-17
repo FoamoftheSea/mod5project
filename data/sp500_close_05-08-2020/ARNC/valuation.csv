@@ -1,0 +1,9 @@
+,ARNC,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",,,Valuation,
+Price/Sales (TTM),,,Valuation,
+Price/Book (MRQ),0.35,,Valuation,
+"PEG Ratio (TTM, GAAP)",,,Valuation,
+Total Debt/Total Capital (MRQ),0.084,,Financial strength,
+Change in Debt/Total Capital Quarter over Quarter,,,Financial strength,
+Quick Ratio (MRQ),0.46,,Financial strength,
+Interest Coverage (MRQ),6.46,,Financial strength,
