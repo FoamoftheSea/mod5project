@@ -1,7 +1,7 @@
 # Quantitative Analysis with Machine Learning
 Nate Cibik - Flatiron Module 5 Final Project - 2020/11/25
 
-Project Links:
+Project Links:<br>
 [Research Summary Blog Post](https://natecibik.medium.com/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8)<br>
 [Non-technical Presentation](https://youtu.be/UoUthOCWo9A)<br>
 [Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) (see bot_functions.py in this repo)<br>
