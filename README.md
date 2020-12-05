@@ -2,9 +2,9 @@
 Nate Cibik - Flatiron Module 5 Final Project - 2020/11/25
 
 Project Links:
-[Research Summary Blog Post](https://natecibik.medium.com/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8)
-[Non-technical Presentation](https://youtu.be/UoUthOCWo9A)
-[Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) (see bot_functions.py in this repo)
+[Research Summary Blog Post](https://natecibik.medium.com/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8)<br>
+[Non-technical Presentation](https://youtu.be/UoUthOCWo9A)<br>
+[Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) (see bot_functions.py in this repo)<br>
 
 ## Overview
 On May 8th, 2020, I deployed a web scraper on TD Ameritrade's website to gather all of the fundamental data available there on the securities in the S&P 500 at that time into a clean, Python-ready database of .csv files. Now, six months later, I performed an in-depth study on the ability of various machine learning algorithms to utilize it in a variety of regression/classification tasks which might provide a trading edge in the market.
