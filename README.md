@@ -1,12 +1,10 @@
+#### Project Links:
+- [Blog Post](https://natecibik.medium.com/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8) - Summarizes research, methodology, and conclusions of this study with coding examples.
+- [Non-technical Presentation](https://youtu.be/UoUthOCWo9A) - Presents business insights gained from this study for a non-technical audience.
+- [Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) - Original repo of web scraper used to gather data for this study. Also see 'bot_functions.py' in this repo for the same code.
+
 # Quantitative Analysis with Machine Learning
-Nate Cibik - Flatiron Module 5 Final Project - 2020/11/25
 
-Project Links:<br>
-[Research Summary Blog Post](https://natecibik.medium.com/predicting-returns-with-fundamental-data-and-machine-learning-in-python-a0e5757206e8)<br>
-[Non-technical Presentation](https://youtu.be/UoUthOCWo9A)<br>
-[Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) (see bot_functions.py in this repo)<br>
-
-## Overview
 On May 8th, 2020, I deployed a web scraper on TD Ameritrade's website to gather all of the fundamental data available there on the securities in the S&P 500 at that time into a clean, Python-ready database of .csv files. Now, six months later, I performed an in-depth study on the ability of various machine learning algorithms to utilize it in a variety of regression/classification tasks which might provide a trading edge in the market.
 
 Several target variables were modeled in order to see what kinds of questions the data could prove useful in answering. First, a value investing perspective was taken, in which the data were used to model the current trading prices of the securities at the time of the scrape. The logic behind this was that since markets are mostly efficient in reflecting the underlying value of assets, creating a model which regresses the current trading prices of securities could take the place of an asset pricing model in a value investing strategy, such as the Capital Asset Pricing Model (CAPM), in evaluating the intrinsic value of securities. The residuals from such a model could be used to represent margins of safety in such a strategy, and the hypothesis was that these residuals would show a linear relationship to the log returns of the securities since the date of the scrape. This hypothesis was not supported by the results of the investigation, which can be found in the first notebook: modeling_current_price.ipynb. Modifying the approach or changing the length of the time period for this investigation may give better results in the future. The benefit in attempting to use this type of model is that it does not use future pricing information as a target, but instead only as a verification of the efficacy of the model residuals in predicting those price movements.
