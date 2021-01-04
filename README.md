@@ -3,7 +3,7 @@
 - [Non-technical Presentation](https://youtu.be/UoUthOCWo9A) - Presents business insights gained from this study for a non-technical audience.
 - [Web Scraper Repository](https://github.com/FoamoftheSea/tda_scraper) - Original repo of web scraper used to gather data for this study. Also see 'bot_functions.py' in this repo for the same code.
 
-# Quantitative Analysis with Machine Learning
+# Building Long/Short Equity Investment Portfolio using Machine Learning
 
 On May 8th, 2020, I deployed a web scraper on TD Ameritrade's website to gather all of the fundamental data available there on the securities in the S&P 500 at that time into a clean, Python-ready database of .csv files. Now, six months later, I performed an in-depth study on the ability of various machine learning algorithms to utilize it in a variety of regression/classification tasks which might provide a trading edge in the market.
 
